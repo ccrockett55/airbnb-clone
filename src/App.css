@@ -26,13 +26,14 @@ top: 22px;
 }
 
 .herostyle {
-  max-width: 400px;
+  max-width: 450px;
   align-self: center;
+  margin-left: 50px;
 }
 
 .main {
 padding: 20px;
-
+padding-bottom: 40px;
 }
 
 .maintext {
@@ -45,6 +46,14 @@ line-height: 110%;
 .picsize {
 width: 176px;
 height: 235px;
-margin-left: 20px;
+
 }
 
+.float {
+  margin-left: 20px;
+  display: block;
+}
+
+.tablestyle {
+  padding-right: 12px;
+}
